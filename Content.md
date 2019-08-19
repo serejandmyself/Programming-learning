@@ -12,8 +12,14 @@ The list is NOT complete, of course.
 - [The art of computer programming by Donald Knuth - wiki link](https://en.wikipedia.org/wiki/The_Art_of_Computer_Programming)
 - [Computer netwroking, Olivier Bonaventure](https://www.computer-networking.info/2nd/cnp3bis.pdf)
 - [Discrete mathematecis for computing, Haggarty Rod](https://www.inspirit.net.in/books/academic/Discrete%20Mathematics%20for%20Computing.pdf)
-- [Clean Architecture, Robert mMrtin](https://github.com/AlexGalhardo/ICMC-USP/blob/master/Book%20-%20Clean%20Architecture%20-%20Robert%20Cecil%20Martin.pdf)
+- [Clean Architecture, Robert Martin](https://github.com/AlexGalhardo/ICMC-USP/blob/master/Book%20-%20Clean%20Architecture%20-%20Robert%20Cecil%20Martin.pdf)
 - [Handbook of applied cryptography](http://cacr.uwaterloo.ca/hac/)
+- [Computer Science destilled, Wladston Ferreira](https://www.beginnersheap.com/computer-science-distilled-wladston-ferreira-filho-pdf-download/)
+- [The self-taught programmer, Cory Althoff](http://www.beginnersheap.com/the-self-taught-programmer-by-cory-althoff-pdf-download/)
+- [Computer Networking, Kieth Ross & James Kurose](https://learnengineering.in/pdf-computer-networking-a-top-down-approach-by-james-kurose-keith-ross-free-download/)
+- [Computing machinery and intellegence, Alan Turing](https://www.csee.umbc.edu/courses/471/papers/turing.pdf)
+- [Code Complete, Steve Mcconell](http://aroma.vn/web/wp-content/uploads/2016/11/code-complete-2nd-edition-v413hav.pdf)
+- [Real World Algorithms, Panos Louridas](https://sanet.st/blogs/bookmt/real_world_algorithms_a_beginners_guide_by_panos_louridas.2972986.html)
 
 **Videos, courses and lectures:**
 - [Electrical Engeneering and CS, 1986, MIT](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video-lectures/)
@@ -35,6 +41,7 @@ The list is NOT complete, of course.
 
 
 **Non-English books, lectures and videos (Primarily Russian):**
+I strongly recommend you look for English transaltions of some of these
 - [IT for schools by Semakin](http://informika-e.ru/S2/11_SEMAKIN.pdf)
 - [The essence of IT, university course](https://libraryblind.ucoz.net/news/osnovy_informatiki_dlja_bakalavrov_uchebnik_konovalova_demidov_ternovskov/2019-03-18-324)
 - [IT, a complete course](http://kit.znu.edu.ua/iLec/1sem/PROGR1/LekBook-1/%D0%A1%D0%B8%D0%BC%D0%BE%D0%BD%D0%BE%D0%B2%D0%B8%D1%87_%D0%98%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B0.pdf)
@@ -49,3 +56,7 @@ The list is NOT complete, of course.
 - [Self learning for system administrators](http://bookfi.net/book/632592)
 - [Databases - video lectures](https://www.youtube.com/watch?v=re_sEp2KYEg&list=PLrCZzMib1e9r6c-j8aW1JuETSyCBp9iAg&index=1)
 - [Maths lectures](https://www.youtube.com/channel/UCStV8EBbnxOFjG0nFCniqgw/videos)
+- [The gentelmens web master kit](https://studfiles.net/preview/6197065/)
+- [Distributed Algorithms](http://litkrug.download/uon_fokkink_raspredelennie_algoritmi_intuitivniy_podhod_XZJ3P/)
+- [Electronics for begginers - a guide](https://avidreaders.ru/book/elektronika-dlya-nachinayuschih-1.html)
+- [Architecture of a computer](http://readingbook.ru/computer-technology/354-arhitektura-kompyutera.html)
